@@ -10,7 +10,7 @@ I am currently a full-stack app developer(frontend &backend).<br>Also based in s
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=derickpaul09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=derickpaul09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=derickpaul09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
