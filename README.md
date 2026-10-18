@@ -1,5 +1,22 @@
-# 💫 About Me:
-I am currently a full-stack app developer(frontend &backend).<br>Also based in security, blue team| purple team, also a CND(certified network defender),.<br>Trained as a SOC Analyst.<br>Languages mastered : java, python and c++,<br>Also i'm a computer engineering student.
+## $ whoami
+
+👨‍💻 Full‑stack developer (frontend & backend)  
+🛡️ Security focus: Blue Team | Purple Team  
+🎓 Certified Network Defender (CND), trained SOC Analyst  
+💻 Languages mastered: Java, Python, C++  
+📚 Computer Engineering student  
+
+## $ ls ~/skills
+
+- Full‑stack app development  
+- Security operations & defense strategies  
+- SOC analysis & incident response  
+- Network defense & monitoring  
+- Backend & frontend integration  
+
+## $ echo "Passion"
+
+Exploring security, building resilient systems, and blending engineering with defense.
 
 
 ## 🌐 Socials:
